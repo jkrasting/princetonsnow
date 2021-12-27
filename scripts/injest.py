@@ -4,6 +4,7 @@
 
 import json
 import os
+import re
 import sys
 
 
@@ -37,11 +38,26 @@ def create_event():
         while obs != "":
             obs = input("Enter an observation (site value): ")
             if obs != "":
-                site, value = obs.split(" ")
-                if value.replace(".", "").isnumeric():
-                    value = float(value)
-                result[site] = value
-                if site == "gfdl":
+                if len(obs.split(" ")) == 2:
+                    site, value = obs.split(" ")
+                    if value.replace(".", "").isnumeric():
+                        value = float(value)
+                    result[site] = value
+                    if site == "gfdl":
+                        obs = ""
+                else:
+                    pattern = re.compile("[^A-Za-z0-9. ]+")
+                    obs = pattern.sub(" ", obs)
+                    obs = re.sub(" +", " ", obs)
+                    obs = obs.split(" ")
+                    assert (len(obs) % 2) == 0, "Multi-obs entry must be even."
+                    for x in range(0, len(obs), 2):
+                        site = obs[x]
+                        value = obs[x + 1]
+                        if value.replace(".", "").isnumeric():
+                            value = float(value)
+                        result[site] = value
+                        print(f"    - {site}: {value}")
                     obs = ""
 
         comment = input("Optional -- enter a comment: ")
@@ -79,12 +95,17 @@ if __name__ == "__main__":
 
     event = {}
     while event is not None:
-        event = create_event()
+        try:
+            event = create_event()
+        except Exception as e:
+            print(e)
+            print("Try again ...")
         if event is not None:
             events.append(event)
         print("\n")
 
-    summarize_events(events)
+    if len(events) > 0:
+        summarize_events(events)
 
     if len(events) > numevents:
         write = input("Write file to disk?  (Y/n): ")
