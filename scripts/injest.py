@@ -75,6 +75,7 @@ def create_event():
                     obs = pattern.sub(" ", obs)
                     obs = re.sub(" +", " ", obs)
                     obs = obs.split(" ")
+                    obs = [x for x in obs if len(x) > 0]
                     assert (len(obs) % 2) == 0, "Multi-obs entry must be even."
                     for x in range(0, len(obs), 2):
                         site = obs[x]
