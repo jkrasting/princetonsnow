@@ -1,0 +1,54 @@
+[
+    {
+        "day_of_season": 84,
+        "start_date": "1998-12-24",
+        "ajb": 1.2,
+        "ds": 1.4,
+        "rt": 2.0,
+        "wfs": 1.5
+    },
+    {
+        "day_of_season": 99,
+        "start_date": "1999-01-08",
+        "gfdl": 3.5
+    },
+    {
+        "day_of_season": 106,
+        "start_date": "1999-01-15",
+        "ajb": 0.8,
+        "ds": 0.4,
+        "wfs": 0.5
+    },
+    {
+        "day_of_season": 130,
+        "start_date": "1999-02-08",
+        "ajb": 0.9,
+        "ds": 1.0,
+        "rt": 0.8,
+        "wfs": 1.1
+    },
+    {
+        "day_of_season": 148,
+        "start_date": "1999-02-26",
+        "ajb": 0.7,
+        "ds": 0.0,
+        "rt": 0.5,
+        "wfs": 0.5
+    },
+    {
+        "day_of_season": 165,
+        "start_date": "1999-03-15",
+        "ajb": 6.7,
+        "ds": 5.9,
+        "rt": 5.3,
+        "wfs": 7.8
+    },
+    {
+        "day_of_season": 172,
+        "start_date": "1999-03-22",
+        "ajb": "T",
+        "ds": "T",
+        "rt": 0.1,
+        "wfs": 0.1
+    }
+]

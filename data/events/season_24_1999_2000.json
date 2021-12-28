@@ -1,0 +1,66 @@
+[
+    {
+        "day_of_season": 107,
+        "start_date": "2000-01-16",
+        "ds": "T",
+        "wfs": 0.1
+    },
+    {
+        "day_of_season": 111,
+        "start_date": "2000-01-20",
+        "ajb": 3.5,
+        "ds": 3.4,
+        "rt": 4.2,
+        "wfs": 3.9
+    },
+    {
+        "day_of_season": 114,
+        "start_date": "2000-01-23",
+        "ajb": "T",
+        "ds": 0.6,
+        "rt": 0.2,
+        "wfs": 0.2
+    },
+    {
+        "day_of_season": 116,
+        "start_date": "2000-01-25",
+        "ajb": 6.8,
+        "ds": 9.7,
+        "rt": 6.1,
+        "wfs": 8.3
+    },
+    {
+        "day_of_season": 121,
+        "start_date": "2000-01-30",
+        "ajb": 3.0,
+        "ds": 1.5
+    },
+    {
+        "day_of_season": 125,
+        "start_date": "2000-02-03",
+        "ajb": 1.8,
+        "rt": 1.7,
+        "ds": 1.6,
+        "wfs": 1.5
+    },
+    {
+        "day_of_season": 127,
+        "start_date": "2000-02-05",
+        "ajb": 0.3,
+        "rt": 0.5,
+        "ds": 0.6,
+        "wfs": 0.5
+    },
+    {
+        "day_of_season": 140,
+        "start_date": "2000-02-18",
+        "gfdl": 3.5
+    },
+    {
+        "day_of_season": 191,
+        "start_date": "2000-04-09",
+        "rt": 3.5,
+        "ds": 3.3,
+        "wfs": 4.3
+    }
+]

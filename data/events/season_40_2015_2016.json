@@ -1,0 +1,85 @@
+[
+    {
+        "day_of_season": 103,
+        "start_date": "2016-01-12",
+        "ajb": "M",
+        "ds": 0.1,
+        "jpk": 0.1,
+        "rgg": "T",
+        "wfs": 0.3,
+        "rjs": "M"
+    },
+    {
+        "day_of_season": 108,
+        "start_date": "2016-01-17",
+        "ajb": "M",
+        "ds": 0.6,
+        "jpk": "M",
+        "rgg": "M",
+        "wfs": 0.9,
+        "rjs": "M"
+    },
+    {
+        "day_of_season": 113,
+        "start_date": "2016-01-22",
+        "end_date": "2016-01-23",
+        "ajb": 22.8,
+        "ds": 21.8,
+        "jpk": 17.1,
+        "rgg": "M",
+        "wfs": 22.5,
+        "rjs": "M"
+    },
+    {
+        "day_of_season": 127,
+        "start_date": "2016-02-05",
+        "gfdl": 4.0
+    },
+    {
+        "day_of_season": 131,
+        "start_date": "2016-02-09",
+        "gfdl": 0.1
+    },
+    {
+        "day_of_season": 132,
+        "start_date": "2016-02-10",
+        "gfdl": 1.1
+    },
+    {
+        "day_of_season": 134,
+        "start_date": "2016-02-12",
+        "end_date": "2016-02-13",
+        "ajb": "M",
+        "ds": 0.6,
+        "jpk": 0.1,
+        "rgg": 0.1,
+        "wfs": 0.1,
+        "rjs": "M"
+    },
+    {
+        "day_of_season": 137,
+        "start_date": "2016-02-15",
+        "ajb": 1.7,
+        "ds": 1.6,
+        "jpk": 1.5,
+        "rgg": 1.5,
+        "wfs": 1.5,
+        "rjs": "M"
+    },
+    {
+        "day_of_season": 155,
+        "start_date": "2016-03-04",
+        "gfdl": 1.9
+    },
+    {
+        "day_of_season": 171,
+        "start_date": "2016-03-20",
+        "end_date": "2016-03-21",
+        "ajb": 0.3,
+        "ds": 0.4,
+        "jpk": 0.8,
+        "rgg": 1.9,
+        "wfs": 0.2,
+        "rjs": 0.3
+    }
+]

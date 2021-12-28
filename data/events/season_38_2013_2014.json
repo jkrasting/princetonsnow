@@ -1,0 +1,174 @@
+[
+    {
+        "day_of_season": 68,
+        "start_date": "2013-12-08",
+        "rgg": 3.2,
+        "ajb": 1.5,
+        "wfs": 2.1,
+        "smf": 2.6,
+        "ds": 3.0
+    },
+    {
+        "day_of_season": 70,
+        "start_date": "2013-12-10",
+        "gfdl": 3.9
+    },
+    {
+        "day_of_season": 74,
+        "start_date": "2013-12-14",
+        "rgg": 2.1,
+        "ajb": 3.0,
+        "wfs": 3.4,
+        "smf": 2.5,
+        "ds": 2.7
+    },
+    {
+        "day_of_season": 77,
+        "start_date": "2013-12-17",
+        "gfdl": 0.8
+    },
+    {
+        "day_of_season": 84,
+        "start_date": "2013-12-24",
+        "rgg": "T",
+        "ajb": 0.0,
+        "wfs": 0.2,
+        "smf": "M",
+        "ds": "T"
+    },
+    {
+        "day_of_season": 92,
+        "start_date": "2014-01-01",
+        "end_date": "2014-01-02",
+        "rgg": 8.2,
+        "ajb": 7.9,
+        "wfs": 7.9,
+        "smf": 7.3,
+        "ds": 7.4
+    },
+    {
+        "day_of_season": 101,
+        "start_date": "2014-01-10",
+        "gfdl": 0.1
+    },
+    {
+        "day_of_season": 109,
+        "start_date": "2014-01-18",
+        "rgg": "M",
+        "ajb": 0.3,
+        "wfs": 0.4,
+        "smf": 0.4,
+        "ds": 0.3
+    },
+    {
+        "day_of_season": 112,
+        "start_date": "2014-01-21",
+        "rgg": "M",
+        "ajb": 9.5,
+        "wfs": 9.7,
+        "smf": 9.2,
+        "ds": 10.6
+    },
+    {
+        "day_of_season": 116,
+        "start_date": "2014-01-25",
+        "rgg": "M",
+        "ajb": 1.4,
+        "wfs": 2.8,
+        "smf": 1.8,
+        "ds": 2.1
+    },
+    {
+        "day_of_season": 120,
+        "start_date": "2014-01-29",
+        "rgg": "M",
+        "ajb": 0.7,
+        "wfs": 0.9,
+        "smf": 0.6,
+        "ds": 0.7
+    },
+    {
+        "day_of_season": 125,
+        "start_date": "2014-02-03",
+        "rgg": 6.8,
+        "ajb": 7.7,
+        "wfs": 8.0,
+        "smf": 8.4,
+        "ds": 7.7
+    },
+    {
+        "day_of_season": 127,
+        "start_date": "2014-02-05",
+        "rgg": "M",
+        "ajb": 0.8,
+        "wfs": 0.3,
+        "smf": 0.3,
+        "ds": 0.1
+    },
+    {
+        "day_of_season": 131,
+        "start_date": "2014-02-09",
+        "rgg": 2.0,
+        "ajb": 1.9,
+        "wfs": 2.0,
+        "smf": 1.6,
+        "ds": 2.6
+    },
+    {
+        "day_of_season": 134,
+        "start_date": "2014-02-12",
+        "end_date": "2014-02-14",
+        "rgg": 11.2,
+        "ajb": 10.6,
+        "wfs": 11.6,
+        "smf": 11.5,
+        "ds": 10.9
+    },
+    {
+        "day_of_season": 137,
+        "start_date": "2014-02-15",
+        "rgg": 1.6,
+        "ajb": "M",
+        "wfs": 1.2,
+        "smf": 1.6,
+        "ds": 0.8
+    },
+    {
+        "day_of_season": 140,
+        "start_date": "2014-02-18",
+        "gfdl": 2.3
+    },
+    {
+        "day_of_season": 148,
+        "start_date": "2014-02-26",
+        "gfdl": 0.8
+    },
+    {
+        "day_of_season": 153,
+        "start_date": "2014-03-03",
+        "gfdl": 0.4
+    },
+    {
+        "day_of_season": 167,
+        "start_date": "2014-03-17",
+        "gfdl": 0.2
+    },
+    {
+        "day_of_season": 175,
+        "start_date": "2014-03-25",
+        "rgg": 1.2,
+        "ajb": "T",
+        "wfs": 0.2,
+        "smf": 0.1,
+        "ds": 0.1
+    },
+    {
+        "day_of_season": 197,
+        "start_date": "2014-04-16",
+        "rgg": 0.8,
+        "ajb": "T",
+        "wfs": 0.3,
+        "smf": "M",
+        "ds": "T"
+    }
+]

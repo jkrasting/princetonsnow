@@ -1,0 +1,104 @@
+[
+    {
+        "day_of_season": 69,
+        "start_date": "2020-12-09",
+        "ajb": 0.2,
+        "cw": "T",
+        "ds": "T",
+        "jpk": "T",
+        "rjs": "T",
+        "wfs": 0.1,
+        "comment": "Our first measurable snowfall of the season was associated with a weak trough extending southward from a low over eastern Canada and a mid-tropospheric vorticity max moving across our region."
+    },
+    {
+        "day_of_season": 76,
+        "start_date": "2020-12-16",
+        "end_date": "2020-12-17",
+        "ajb": 7.8,
+        "cw": 7.8,
+        "ds": 7.6,
+        "jpk": 7.0,
+        "rjs": 7.2,
+        "wfs": 8.8,
+        "comment": "Our second measurable snowfall of the season was associated with a coastal low that intensified as it moved NNE up the east coast along with a strong high that built over northern New England. This storm produced the most snow in a single event affecting our area since March of 2018."
+    },
+    {
+        "day_of_season": 94,
+        "start_date": "2021-01-03",
+        "ajb": 0.1,
+        "cw": "T",
+        "ds": 0.1,
+        "jpk": "T",
+        "rjs": 0.1,
+        "wfs": 0.1,
+        "comment": "A low that moved ENE off the NC coast produced a small amount of measurable snow and sleet before changing to light rain."
+    },
+    {
+        "day_of_season": 117,
+        "start_date": "2021-01-26",
+        "ajb": 0.1,
+        "cw": "T",
+        "ds": 0.1,
+        "jpk": 0.3,
+        "rjs": 0.1,
+        "wfs": 0.1,
+        "comment": "Overrunning precipitation from a storm to our west coupled with cold air in place from a high to our north produced a small amount of measurable sleet before changing to rain."
+    },
+    {
+        "day_of_season": 122,
+        "start_date": "2021-01-31",
+        "end_date": "2021-02-03",
+        "ajb": 15.6,
+        "cw": 15.5,
+        "ds": 13.1,
+        "jpk": 10.2,
+        "rjs": 8.9,
+        "wfs": 14.1,
+        "comment": "This snow event of 12.9″ was the first snowstorm of a foot or more in the greater Princeton area in about 5 years (22-23Jan2016 there was a 21″ storm). On the morning of 31 Jan it was located south of Chicago, where about 10″ of snow fell. As it moved eastward there was a transfer of energy to a developing east coast storm over SC during the evening of 31Jan. Overnight the storm moved northeastward and was located off the DelMarVa coast by Monday morning 1 Feb. At the same time an upper-level trough was deepening causing the surface low to slow down and virtually stall. By midday Feb 1 it was located just SE of Cape May, NJ and had only drifted slightly to the east by Tuesday AM Feb 2. The result was a very extended period of precipitation, mostly in the form of snow, although there was a considerable amount of sleet in portions of the area. This storm produced over 17″ of snow in NYC and over 30″ in some northern NJ and NE PA locations."
+    },
+    {
+        "day_of_season": 129,
+        "start_date": "2021-02-07",
+        "ajb": 5.9,
+        "cw": "M",
+        "ds": 7.4,
+        "jpk": 6.3,
+        "rjs": 3.5,
+        "wfs": 6.0,
+        "comment": "This snow event was the result of a storm that originated in the Gulf late Saturday, Feb6, that moved rapidly NE (and deepened) to a location off the NC coast early Sunday morning and then continued moving NE to a location east of the DelMarVa by Sunday afternoon. Most of the snowfall fell in about 6 hours that included periods of moderate to heavy snow."
+    },
+    {
+        "day_of_season": 133,
+        "start_date": "2021-02-11",
+        "ajb": 2.3,
+        "cw": 2.0,
+        "ds": 2.9,
+        "jpk": 2.6,
+        "rjs": 2.5,
+        "wfs": 2.7,
+        "comment": "Overnight Wednesday, Feb 10, into early morning Thursday a weak storm moved rapidly from east to west south of our area, producing an average of 2.5″ of snow."
+    },
+    {
+        "day_of_season": 140,
+        "start_date": "2021-02-18",
+        "end_date": "2021-02-19",
+        "ajb": 4.8,
+        "cw": 4.7,
+        "ds": 7.5,
+        "jpk": 6.6,
+        "rjs": 10.2,
+        "wfs": 7.8,
+        "comment": "A storm that formed off the mid-Atlantic coast which developed from a low pressure trough that extended to the Gulf, produced a very heavy band of snow in the southern part of our area early on Feb18, other areas received light to moderate snowfall. Additional accumulation resulted from backlash around the offshore storm on Feb 19, so the storm total for the Princeton area was 6.9″"
+    },
+    {
+        "day_of_season": 144,
+        "start_date": "2021-02-22",
+        "ajb": "M",
+        "cw": "M",
+        "ds": 1.8,
+        "jpk": 1.0,
+        "rjs": 0.8,
+        "wfs": 1.9,
+        "comment": "A storm to the north, with a frontal zone extending southward, moved rapidly east to west during the day Monday. Although warm air was advected into our region, there was enough cold air in place to produce an average of 1.4″ of snow during the late morning before changing to rain."
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "day_of_season": 65,
+        "start_date": "2009-12-05",
+        "ajb": 0.9,
+        "ds": 0.6,
+        "rgg": 1.7,
+        "snf": 0.8,
+        "wfs": 1.1
+    },
+    {
+        "day_of_season": 79,
+        "start_date": "2009-12-19",
+        "end_date": "2009-12-20",
+        "ajb": 10.9,
+        "ds": 12.4,
+        "rgg": 18.3,
+        "snf": 10.3,
+        "wfs": 11.3
+    },
+    {
+        "day_of_season": 91,
+        "start_date": "2009-12-31",
+        "gfdl": 1.1
+    },
+    {
+        "day_of_season": 99,
+        "start_date": "2020-01-08",
+        "gfdl": 0.9
+    },
+    {
+        "day_of_season": 119,
+        "start_date": "2010-01-28",
+        "gfdl": 0.2
+    },
+    {
+        "day_of_season": 121,
+        "start_date": "2010-01-30",
+        "ajb": "T",
+        "ds": 0.2,
+        "rgg": 1.0,
+        "snf": 0.1,
+        "wfs": 0.1
+    },
+    {
+        "day_of_season": 125,
+        "start_date": "2010-02-03",
+        "gfdl": 1.0
+    },
+    {
+        "day_of_season": 127,
+        "start_date": "2010-02-05",
+        "end_date": "2010-02-06",
+        "ajb": 7.1,
+        "ds": "M",
+        "rgg": 17.1,
+        "snf": 7.3,
+        "wfs": 11.5
+    },
+    {
+        "day_of_season": 131,
+        "start_date": "2010-02-09",
+        "end_date": "2010-02-10",
+        "ajb": 14.1,
+        "ds": 15.0,
+        "rgg": 18.9,
+        "snf": 15.5,
+        "wfs": 16.8
+    },
+    {
+        "day_of_season": 137,
+        "start_date": "2010-02-15",
+        "end_date": "2010-02-16",
+        "ajb": 2.3,
+        "ds": 1.2,
+        "rgg": 0.5,
+        "snf": 1.3,
+        "wfs": 2.0
+    },
+    {
+        "day_of_season": 138,
+        "start_date": "2010-02-16",
+        "gfdl": 0.8
+    },
+    {
+        "day_of_season": 144,
+        "start_date": "2010-02-22",
+        "ajb": 0.3,
+        "ds": "M",
+        "rgg": "T",
+        "snf": "M",
+        "wfs": 0.3
+    },
+    {
+        "day_of_season": 147,
+        "start_date": "2010-02-25",
+        "end_date": "2010-02-26",
+        "ajb": 9.4,
+        "ds": 5.9,
+        "rgg": 7.8,
+        "snf": 6.8,
+        "wfs": 8.7
+    }
+]

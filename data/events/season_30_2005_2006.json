@@ -1,0 +1,76 @@
+[
+    {
+        "day_of_season": 54,
+        "start_date": "2005-11-24",
+        "ajb": 0.3,
+        "ds": 0.0,
+        "rgg": 0.0,
+        "snf": 0.0,
+        "wfs": 0.1
+    },
+    {
+        "day_of_season": 64,
+        "start_date": "2005-12-04",
+        "ds": 2.9,
+        "rgg": 2.2,
+        "snf": 2.6,
+        "wfs": 3.2
+    },
+    {
+        "day_of_season": 65,
+        "start_date": "2005-12-05",
+        "end_date": "2005-12-06",
+        "gfdl": 2.4
+    },
+    {
+        "day_of_season": 69,
+        "start_date": "2005-12-09",
+        "ajb": 5.2,
+        "ds": 4.8,
+        "rgg": "T",
+        "snf": 2.8,
+        "wfs": 5.3
+    },
+    {
+        "day_of_season": 76,
+        "start_date": "2005-12-16",
+        "ajb": "T",
+        "ds": "T",
+        "rgg": 0.1,
+        "snf": 0.1,
+        "wfs": 0.1
+    },
+    {
+        "day_of_season": 105,
+        "start_date": "2006-01-14",
+        "ds": 3.4,
+        "rgg": 1.5,
+        "snf": 2.5,
+        "wfs": 4.0
+    },
+    {
+        "day_of_season": 102,
+        "start_date": "2006-01-11",
+        "end_date": "2006-01-12",
+        "ajb": 18.4,
+        "ds": 20.3,
+        "rgg": 16.5,
+        "snf": 16.0,
+        "wfs": 19.0
+    },
+    {
+        "day_of_season": 149,
+        "start_date": "2006-02-27",
+        "end_date": "2006-02-28",
+        "ajb": 0.3,
+        "ds": 0.6,
+        "rgg": 0.5,
+        "snf": 1.5,
+        "wfs": 2.3
+    },
+    {
+        "day_of_season": 186,
+        "start_date": "2006-04-05",
+        "gfdl": 0.2
+    }
+]

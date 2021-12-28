@@ -1,0 +1,55 @@
+[
+    {
+        "day_of_season": 45,
+        "start_date": "1997-11-15",
+        "ds": "T",
+        "wfs": 0.2
+    },
+    {
+        "day_of_season": 71,
+        "start_date": "1997-12-11",
+        "ds": 0.1,
+        "rt": "T",
+        "wfs": 0.1
+    },
+    {
+        "day_of_season": 87,
+        "start_date": "1997-12-27",
+        "wfs": 1.5
+    },
+    {
+        "day_of_season": 90,
+        "start_date": "1997-12-30",
+        "wfs": 0.1
+    },
+    {
+        "day_of_season": 109,
+        "start_date": "1998-01-18",
+        "ajb": 0.8,
+        "ds": 0.5,
+        "rt": 0.2,
+        "wfs": 0.8
+    },
+    {
+        "day_of_season": 114,
+        "start_date": "1998-01-23",
+        "ajb": 0.0,
+        "ds": 0.3,
+        "rt": 0.0,
+        "wfs": 0.5
+    },
+    {
+        "day_of_season": 164,
+        "start_date": "1998-03-14",
+        "ajb": 0.3,
+        "ds": 0.1,
+        "wfs": 0.3
+    },
+    {
+        "day_of_season": 172,
+        "start_date": "1998-03-22",
+        "ds": 1.0,
+        "rt": 1.9,
+        "wfs": 0.6
+    }
+]

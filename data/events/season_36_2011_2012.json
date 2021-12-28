@@ -1,0 +1,57 @@
+[
+    {
+        "day_of_season": 28,
+        "start_date": "2011-10-29",
+        "ajb": 4.1,
+        "ds": 2.4,
+        "rgg": 2.2,
+        "snf": 2.5,
+        "wfs": 4.7
+    },
+    {
+        "day_of_season": 112,
+        "start_date": "2012-01-21",
+        "ajb": 2.9,
+        "ds": 3.1,
+        "rgg": "M",
+        "snf": 2.3,
+        "wfs": 2.7
+    },
+    {
+        "day_of_season": 117,
+        "start_date": "2012-01-26",
+        "ajb": "M",
+        "ds": "M",
+        "rgg": "M",
+        "snf": 0.1,
+        "wfs": 0.1
+    },
+    {
+        "day_of_season": 130,
+        "start_date": "2012-02-08",
+        "ajb": 0.7,
+        "ds": 0.6,
+        "rgg": 1.5,
+        "snf": 0.6,
+        "wfs": 1.0
+    },
+    {
+        "day_of_season": 133,
+        "start_date": "2012-02-11",
+        "ajb": 0.9,
+        "ds": 0.9,
+        "rgg": 0.8,
+        "snf": 1.5,
+        "wfs": 0.9
+    },
+    {
+        "day_of_season": 133,
+        "start_date": "2012-02-11",
+        "ajb": "T",
+        "ds": 0.2,
+        "rgg": 0.4,
+        "snf": "M",
+        "wfs": 1.5,
+        "comment": "Secondary event"
+    }
+]

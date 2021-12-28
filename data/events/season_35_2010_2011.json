@@ -1,0 +1,122 @@
+[
+    {
+        "day_of_season": 86,
+        "start_date": "2010-12-26",
+        "end_date": "2010-12-27",
+        "ajb": 22.9,
+        "ds": 7.2,
+        "rgg": 22.0,
+        "snf": 14.5,
+        "wfs": 11.7
+    },
+    {
+        "day_of_season": 98,
+        "start_date": "2011-01-07",
+        "gfdl": 1.5
+    },
+    {
+        "day_of_season": 99,
+        "start_date": "2011-01-08",
+        "ajb": 1.1,
+        "ds": 2.1,
+        "rgg": 1.3,
+        "snf": 1.7,
+        "wfs": 2.1
+    },
+    {
+        "day_of_season": 102,
+        "start_date": "2011-01-11",
+        "end_date": "2011-01-12",
+        "ajb": 7.3,
+        "ds": 7.5,
+        "rgg": 5.6,
+        "snf": 8.3,
+        "wfs": 8.0
+    },
+    {
+        "day_of_season": 108,
+        "start_date": "2011-01-17",
+        "end_date": "2011-01-18",
+        "ajb": 1.1,
+        "ds": 1.6,
+        "wfs": 1.4
+    },
+    {
+        "day_of_season": 112,
+        "start_date": "2011-01-21",
+        "gfdl": 2.9
+    },
+    {
+        "day_of_season": 117,
+        "start_date": "2011-01-26",
+        "gfdl": 4.6
+    },
+    {
+        "day_of_season": 117,
+        "start_date": "2011-01-26",
+        "end_date": "2011-01-27",
+        "ajb": 9.0,
+        "ds": 11.3,
+        "snf": 12.0,
+        "wfs": 13.2
+    },
+    {
+        "day_of_season": 119,
+        "start_date": "2011-01-28",
+        "ajb": "T",
+        "ds": 0.4,
+        "snf": 0.2,
+        "wfs": 0.5
+    },
+    {
+        "day_of_season": 120,
+        "start_date": "2011-01-29",
+        "ajb": 0.2,
+        "ds": 0.1,
+        "snf": 0.1,
+        "wfs": 0.3
+    },
+    {
+        "day_of_season": 122,
+        "start_date": "2011-01-31",
+        "end_date": "2011-02-01",
+        "ajb": 0.4,
+        "ds": 0.2,
+        "rgg": 0.2,
+        "snf": 0.2,
+        "wfs": 0.4
+    },
+    {
+        "day_of_season": 143,
+        "start_date": "2011-02-21",
+        "ajb": 0.8,
+        "ds": 0.5,
+        "rgg": 0.4,
+        "snf": 0.0,
+        "wfs": 0.6
+    },
+    {
+        "day_of_season": 144,
+        "start_date": "2011-02-22",
+        "ajb": 0.1,
+        "ds": 1.5,
+        "rgg": 1.1,
+        "snf": 0.6,
+        "wfs": 0.8
+    },
+    {
+        "day_of_season": 173,
+        "start_date": "2011-03-23",
+        "gfdl": 0.4
+    },
+    {
+        "day_of_season": 173,
+        "start_date": "2011-03-23",
+        "end_date": "2011-03-24",
+        "ajb": 0.3,
+        "ds": 0.1,
+        "rgg": 0.2,
+        "snf": 0.3,
+        "wfs": 0.6
+    }
+]
