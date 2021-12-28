@@ -21,6 +21,27 @@ def days_since_oct1(date_string):
     return (event_date - ref_date).days
 
 
+def event_mean(_event):
+    """Calculates the mean for an event"""
+    traces = [x for x in _event.values() if isinstance(x, str)]
+    traces = [0.0 for x in traces if (x.upper() == "T")]
+    values = [x for x in _event.values() if isinstance(x, float)]
+    values = values + traces
+    if len(values) > 0:
+        mean = sum(values) / len(values)
+        mean = round(mean, 1)
+    else:
+        mean = 0.0
+    return mean
+
+
+def fix_missing_event_mean(event):
+    """Adds event mean to older json files"""
+    if "mean" not in event.keys():
+        event["mean"] = event_mean(event)
+    return event
+
+
 def fix_missing_season_date(event):
     """Adds days since Oct 1 to older json files"""
     if "day_of_season" not in event.keys():
@@ -100,12 +121,7 @@ def summarize_events(event_list):
     """Prints summary text for a season"""
     total = 0.0
     for _event in event_list:
-        values = [x for x in _event.values() if isinstance(x, float)]
-        if len(values) > 0:
-            mean = sum(values) / len(values)
-            mean = round(mean, 1)
-        else:
-            mean = 0.0
+        mean = event_mean(_event)
         total += mean
         print(f" * {_event['start_date']} ({_event['day_of_season']}) - {mean}")
     total = round(total, 1)
@@ -128,6 +144,7 @@ if __name__ == "__main__":
     numevents = len(events)
 
     events = [fix_missing_season_date(x) for x in events]
+    events = [fix_missing_event_mean(x) for x in events]
 
     event = {}
     while event is not None:
@@ -144,7 +161,9 @@ if __name__ == "__main__":
     if len(events) > 0:
         summarize_events(events)
 
-    if len(events) > numevents:
+    _ = [event_mean(x) for x in events]
+
+    if len(events) >= numevents:
         write = input("Write file to disk?  (Y/n): ")
         if write == "Y":
             if FNAME is None:
