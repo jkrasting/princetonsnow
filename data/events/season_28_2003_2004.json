@@ -5,7 +5,8 @@
         "ajb": 0.0,
         "ds": 0.3,
         "rgg": "T",
-        "wfs": 0.1
+        "wfs": 0.1,
+        "mean": 0.1
     },
     {
         "day_of_season": 65,
@@ -15,7 +16,8 @@
         "ds": 12.0,
         "rgg": 15.0,
         "snf": 11.0,
-        "wfs": 14.7
+        "wfs": 14.7,
+        "mean": 13.3
     },
     {
         "day_of_season": 74,
@@ -24,12 +26,14 @@
         "ds": 1.2,
         "rgg": 0.8,
         "snf": 1.2,
-        "wfs": 1.8
+        "wfs": 1.8,
+        "mean": 1.7
     },
     {
         "day_of_season": 106,
         "start_date": "2004-01-15",
-        "gfdl": 4.4
+        "gfdl": 4.4,
+        "mean": 4.4
     },
     {
         "day_of_season": 108,
@@ -38,7 +42,8 @@
         "ajb": 1.4,
         "ds": 0.9,
         "snf": 2.0,
-        "wfs": 1.3
+        "wfs": 1.3,
+        "mean": 1.4
     },
     {
         "day_of_season": 115,
@@ -47,7 +52,8 @@
         "ds": 0.2,
         "rgg": 0.0,
         "snf": 0.0,
-        "wfs": 0.1
+        "wfs": 0.1,
+        "mean": 0.1
     },
     {
         "day_of_season": 116,
@@ -57,7 +63,8 @@
         "ds": 1.8,
         "rgg": 1.3,
         "snf": 1.5,
-        "wfs": 2.1
+        "wfs": 2.1,
+        "mean": 1.5
     },
     {
         "day_of_season": 118,
@@ -67,7 +74,8 @@
         "ds": 3.1,
         "rgg": 4.7,
         "snf": 3.7,
-        "wfs": 3.9
+        "wfs": 3.9,
+        "mean": 4.0
     },
     {
         "day_of_season": 128,
@@ -75,7 +83,8 @@
         "ajb": 0.3,
         "ds": 0.1,
         "rgg": 0.2,
-        "wfs": 0.1
+        "wfs": 0.1,
+        "mean": 0.2
     },
     {
         "day_of_season": 139,
@@ -85,12 +94,14 @@
         "ds": 0.0,
         "rgg": 0.7,
         "snf": "T",
-        "wfs": 0.0
+        "wfs": 0.0,
+        "mean": 0.1
     },
     {
         "day_of_season": 146,
         "start_date": "2004-02-24",
-        "gfdl": 0.2
+        "gfdl": 0.2,
+        "mean": 0.2
     },
     {
         "day_of_season": 146,
@@ -99,12 +110,14 @@
         "ds": 0.4,
         "rgg": 0.2,
         "snf": 0.7,
-        "wfs": 0.8
+        "wfs": 0.8,
+        "mean": 0.5
     },
     {
         "day_of_season": 159,
         "start_date": "2004-03-08",
-        "gfdl": 1.4
+        "gfdl": 1.4,
+        "mean": 1.4
     },
     {
         "day_of_season": 167,
@@ -112,13 +125,15 @@
         "end_date": "2004-03-17",
         "ds": 3.9,
         "rgg": 4.3,
-        "wfs": 4.6
+        "wfs": 4.6,
+        "mean": 4.3
     },
     {
         "day_of_season": 169,
         "start_date": "2004-03-18",
         "gfdl": 0.5,
-        "comment": "The date and source of this event were not captured accurately."
+        "comment": "The date and source of this event were not captured accurately.",
+        "mean": 0.5
     },
     {
         "day_of_season": 172,
@@ -126,6 +141,7 @@
         "ds": 2.4,
         "rgg": 5.1,
         "snf": 3.0,
-        "wfs": 4.6
+        "wfs": 4.6,
+        "mean": 3.8
     }
 ]

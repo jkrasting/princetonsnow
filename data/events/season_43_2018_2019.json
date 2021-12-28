@@ -9,7 +9,8 @@
         "rjs": 4.6,
         "wfs": 4.3,
         "cw": "M",
-        "comment": "Our first snow event of the season was the result of a low over the eastern Gulf of Mexico redeveloping as a coastal storm just offshore from South Carolina which moved northward. A strong Canadian high built over New England providing sufficient cold air to produce significant snow over interior portions of the northeast. The Princeton area received most of the snow during the early and mid afternoon Thursday when bands of heavy snow developed along the I95 corridor due to a coastal front that formed east of the region."
+        "comment": "Our first snow event of the season was the result of a low over the eastern Gulf of Mexico redeveloping as a coastal storm just offshore from South Carolina which moved northward. A strong Canadian high built over New England providing sufficient cold air to produce significant snow over interior portions of the northeast. The Princeton area received most of the snow during the early and mid afternoon Thursday when bands of heavy snow developed along the I95 corridor due to a coastal front that formed east of the region.",
+        "mean": 4.5
     },
     {
         "day_of_season": 46,
@@ -20,12 +21,14 @@
         "rgg": 0.1,
         "rjs": 0.1,
         "wfs": 0.3,
-        "cw": "M"
+        "cw": "M",
+        "mean": 0.1
     },
     {
         "day_of_season": 104,
         "start_date": "2019-01-13",
-        "gfdl": 0.3
+        "gfdl": 0.3,
+        "mean": 0.3
     },
     {
         "day_of_season": 109,
@@ -36,27 +39,32 @@
         "rgg": "M",
         "rjs": "M",
         "wfs": 1.0,
-        "cw": "M"
+        "cw": "M",
+        "mean": 1.1
     },
     {
         "day_of_season": 121,
         "start_date": "2019-01-30",
-        "gfdl": 0.2
+        "gfdl": 0.2,
+        "mean": 0.2
     },
     {
         "day_of_season": 123,
         "start_date": "2019-02-01",
-        "gfdl": 0.2
+        "gfdl": 0.2,
+        "mean": 0.2
     },
     {
         "day_of_season": 133,
         "start_date": "2019-02-11",
-        "gfdl": 0.4
+        "gfdl": 0.4,
+        "mean": 0.4
     },
     {
         "day_of_season": 134,
         "start_date": "2019-02-12",
-        "gfdl": 1.5
+        "gfdl": 1.5,
+        "mean": 1.5
     },
     {
         "day_of_season": 142,
@@ -67,7 +75,8 @@
         "rgg": 2.3,
         "rjs": "M",
         "wfs": 2.0,
-        "cw": 2.2
+        "cw": 2.2,
+        "mean": 2.1
     },
     {
         "day_of_season": 150,
@@ -78,12 +87,14 @@
         "rgg": 0.1,
         "rjs": "M",
         "wfs": 0.1,
-        "cw": 0.1
+        "cw": 0.1,
+        "mean": 0.1
     },
     {
         "day_of_season": 151,
         "start_date": "2019-03-01",
-        "gfdl": 1.1
+        "gfdl": 1.1,
+        "mean": 1.1
     },
     {
         "day_of_season": 152,
@@ -94,7 +105,8 @@
         "rgg": "T",
         "rjs": "M",
         "wfs": 0.2,
-        "cw": "M"
+        "cw": "M",
+        "mean": 0.1
     },
     {
         "day_of_season": 153,
@@ -107,6 +119,7 @@
         "rjs": 2.8,
         "wfs": 3.7,
         "cw": 4.0,
-        "comment": "In what has been a below normal snow season, this storm, averaging 3.4″ in the Princeton area, was the most snow for an event since November. It was the result of a storm that developed in the western Gulf of Mexico, moved east northeastward to off the NC coast and then northeastward while deepening. As seems to often be the case in the I-95 corridor, trying to predict just how much sleet and rain would mix made it a tricky forecast situation. In addition, with temperatures throughout the mixed layer being close to freezing, there was a very high water content to the snow that fell."
+        "comment": "In what has been a below normal snow season, this storm, averaging 3.4″ in the Princeton area, was the most snow for an event since November. It was the result of a storm that developed in the western Gulf of Mexico, moved east northeastward to off the NC coast and then northeastward while deepening. As seems to often be the case in the I-95 corridor, trying to predict just how much sleet and rain would mix made it a tricky forecast situation. In addition, with temperatures throughout the mixed layer being close to freezing, there was a very high water content to the snow that fell.",
+        "mean": 3.4
     }
 ]

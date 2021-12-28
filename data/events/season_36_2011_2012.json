@@ -6,7 +6,8 @@
         "ds": 2.4,
         "rgg": 2.2,
         "snf": 2.5,
-        "wfs": 4.7
+        "wfs": 4.7,
+        "mean": 3.2
     },
     {
         "day_of_season": 112,
@@ -15,7 +16,8 @@
         "ds": 3.1,
         "rgg": "M",
         "snf": 2.3,
-        "wfs": 2.7
+        "wfs": 2.7,
+        "mean": 2.8
     },
     {
         "day_of_season": 117,
@@ -24,7 +26,8 @@
         "ds": "M",
         "rgg": "M",
         "snf": 0.1,
-        "wfs": 0.1
+        "wfs": 0.1,
+        "mean": 0.1
     },
     {
         "day_of_season": 130,
@@ -33,7 +36,8 @@
         "ds": 0.6,
         "rgg": 1.5,
         "snf": 0.6,
-        "wfs": 1.0
+        "wfs": 1.0,
+        "mean": 0.9
     },
     {
         "day_of_season": 133,
@@ -42,7 +46,8 @@
         "ds": 0.9,
         "rgg": 0.8,
         "snf": 1.5,
-        "wfs": 0.9
+        "wfs": 0.9,
+        "mean": 1.0
     },
     {
         "day_of_season": 133,
@@ -52,6 +57,7 @@
         "rgg": 0.4,
         "snf": "M",
         "wfs": 1.5,
-        "comment": "Secondary event"
+        "comment": "Secondary event",
+        "mean": 0.5
     }
 ]

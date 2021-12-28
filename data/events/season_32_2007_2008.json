@@ -6,7 +6,8 @@
         "ds": 1.0,
         "rgg": 0.2,
         "snf": 0.8,
-        "wfs": 0.7
+        "wfs": 0.7,
+        "mean": 0.7
     },
     {
         "day_of_season": 65,
@@ -15,12 +16,14 @@
         "ds": 0.7,
         "rgg": "M",
         "snf": 0.8,
-        "wfs": 1.1
+        "wfs": 1.1,
+        "mean": 0.9
     },
     {
         "day_of_season": 73,
         "start_date": "2007-12-13",
-        "gfdl": 0.5
+        "gfdl": 0.5,
+        "mean": 0.5
     },
     {
         "day_of_season": 106,
@@ -29,7 +32,8 @@
         "ds": 0.0,
         "rgg": 0.5,
         "snf": "M",
-        "wfs": "T"
+        "wfs": "T",
+        "mean": 0.1
     },
     {
         "day_of_season": 108,
@@ -38,7 +42,8 @@
         "ds": 1.5,
         "rgg": 0.6,
         "snf": 0.5,
-        "wfs": 1.5
+        "wfs": 1.5,
+        "mean": 1.0
     },
     {
         "day_of_season": 111,
@@ -47,7 +52,8 @@
         "ds": 0.0,
         "rgg": "M",
         "snf": "T",
-        "wfs": 0.2
+        "wfs": 0.2,
+        "mean": 0.1
     },
     {
         "day_of_season": 131,
@@ -56,7 +62,8 @@
         "ds": 0.1,
         "rgg": "T",
         "snf": "T",
-        "wfs": 0.1
+        "wfs": 0.1,
+        "mean": 0.0
     },
     {
         "day_of_season": 132,
@@ -65,7 +72,8 @@
         "ds": "M",
         "rgg": "T",
         "snf": "T",
-        "wfs": "T"
+        "wfs": "T",
+        "mean": 0.1
     },
     {
         "day_of_season": 134,
@@ -74,7 +82,8 @@
         "ds": 1.0,
         "rgg": 1.1,
         "snf": 1.2,
-        "wfs": 1.7
+        "wfs": 1.7,
+        "mean": 1.4
     },
     {
         "day_of_season": 142,
@@ -83,12 +92,14 @@
         "ds": 0.1,
         "rgg": 0.1,
         "snf": "T",
-        "wfs": "T"
+        "wfs": "T",
+        "mean": 0.0
     },
     {
         "day_of_season": 144,
         "start_date": "2008-02-22",
-        "gfdl": 4.3
+        "gfdl": 4.3,
+        "mean": 4.3
     },
     {
         "day_of_season": 149,
@@ -97,7 +108,8 @@
         "ds": 0.1,
         "rgg": 0.0,
         "snf": 0.0,
-        "wfs": 0.3
+        "wfs": 0.3,
+        "mean": 0.1
     },
     {
         "day_of_season": 151,
@@ -106,6 +118,7 @@
         "ds": 0.3,
         "rgg": 0.2,
         "snf": "M",
-        "wfs": 0.5
+        "wfs": 0.5,
+        "mean": 0.5
     }
 ]

@@ -3,7 +3,8 @@
         "day_of_season": 62,
         "start_date": "2019-12-02",
         "gfdl": 0.6,
-        "comment": "This first part of our first snow event was the result of warm air overriding cold air over New England while a coastal storm was starting to develop just off shore of NJ."
+        "comment": "This first part of our first snow event was the result of warm air overriding cold air over New England while a coastal storm was starting to develop just off shore of NJ.",
+        "mean": 0.6
     },
     {
         "day_of_season": 62,
@@ -15,7 +16,8 @@
         "jpk": 0.5,
         "rjs": 0.1,
         "wfs": 0.3,
-        "comment": "This second part our first snow event was the result of “backlash” snowfall around the coastal storm that developed just off shore of NJ."
+        "comment": "This second part our first snow event was the result of “backlash” snowfall around the coastal storm that developed just off shore of NJ.",
+        "mean": 0.5
     },
     {
         "day_of_season": 71,
@@ -26,7 +28,8 @@
         "wfs": 1.0,
         "cw": "M",
         "ds": "M",
-        "comment": "A weak wave along a cold front produced a period of light snow in the morning hours."
+        "comment": "A weak wave along a cold front produced a period of light snow in the morning hours.",
+        "mean": 1.0
     },
     {
         "day_of_season": 78,
@@ -37,7 +40,8 @@
         "wfs": 0.1,
         "cw": "M",
         "ds": 0.2,
-        "comment": "In advance of a strong arctic front, snow showers developed during the afternoon/evening"
+        "comment": "In advance of a strong arctic front, snow showers developed during the afternoon/evening",
+        "mean": 0.2
     },
     {
         "day_of_season": 97,
@@ -48,7 +52,8 @@
         "wfs": 0.1,
         "cw": 0.7,
         "ds": 0.4,
-        "comment": "A trough moving through the Princeton area overnight produced snow showers."
+        "comment": "A trough moving through the Princeton area overnight produced snow showers.",
+        "mean": 0.5
     },
     {
         "day_of_season": 109,
@@ -59,6 +64,7 @@
         "wfs": 0.9,
         "cw": "M",
         "ds": 1.2,
-        "comment": "The combination of warm moist air from a mid-west storm moving eastward overriding cold air associated with high pressure in the northeast produced periods of snow during the afternoon and sleet in the early evening."
+        "comment": "The combination of warm moist air from a mid-west storm moving eastward overriding cold air associated with high pressure in the northeast produced periods of snow during the afternoon and sleet in the early evening.",
+        "mean": 1.1
     }
 ]

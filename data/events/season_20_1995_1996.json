@@ -2,7 +2,8 @@
     {
         "day_of_season": 59,
         "start_date": "1995-11-29",
-        "gfdl": 3.9
+        "gfdl": 3.9,
+        "mean": 3.9
     },
     {
         "day_of_season": 69,
@@ -10,19 +11,22 @@
         "ds": 2.5,
         "wfs": 1.7,
         "ajb": 1.6,
-        "rt": 1.1
+        "rt": 1.1,
+        "mean": 1.7
     },
     {
         "day_of_season": 74,
         "start_date": "1995-12-14",
-        "gfdl": 0.9
+        "gfdl": 0.9,
+        "mean": 0.9
     },
     {
         "day_of_season": 76,
         "start_date": "1995-12-16",
         "ds": 1.1,
         "wfs": 1.0,
-        "rt": 0.7
+        "rt": 0.7,
+        "mean": 0.9
     },
     {
         "day_of_season": 78,
@@ -31,7 +35,8 @@
         "ajb": 8.9,
         "rt": 8.4,
         "wfs": 8.1,
-        "ds": 7.8
+        "ds": 7.8,
+        "mean": 8.3
     },
     {
         "day_of_season": 85,
@@ -39,7 +44,8 @@
         "ajb": 0.2,
         "rt": 0.1,
         "wfs": 0.1,
-        "ds": 0.1
+        "ds": 0.1,
+        "mean": 0.1
     },
     {
         "day_of_season": 93,
@@ -48,7 +54,8 @@
         "ajb": 0.7,
         "wfs": 0.3,
         "ds": 0.3,
-        "rt": 0.2
+        "rt": 0.2,
+        "mean": 0.4
     },
     {
         "day_of_season": 98,
@@ -57,7 +64,8 @@
         "wfs": 31.1,
         "rt": 30.7,
         "ds": 28.4,
-        "ajb": 21.5
+        "ajb": 21.5,
+        "mean": 27.9
     },
     {
         "day_of_season": 100,
@@ -66,12 +74,14 @@
         "ds": 0.2,
         "ajb": 0.1,
         "wfs": 0.1,
-        "rt": "T"
+        "rt": "T",
+        "mean": 0.1
     },
     {
         "day_of_season": 103,
         "start_date": "1996-01-12",
-        "gfdl": 2.7
+        "gfdl": 2.7,
+        "mean": 2.7
     },
     {
         "day_of_season": 103,
@@ -80,7 +90,8 @@
         "ds": 0.2,
         "wfs": 0.1,
         "rt": 0.1,
-        "ajb": "T"
+        "ajb": "T",
+        "mean": 0.1
     },
     {
         "day_of_season": 112,
@@ -88,12 +99,14 @@
         "ds": 0.2,
         "ajb": 0.1,
         "rt": "T",
-        "wfs": "T"
+        "wfs": "T",
+        "mean": 0.1
     },
     {
         "day_of_season": 122,
         "start_date": "1996-01-31",
-        "gfdl": 0.9
+        "gfdl": 0.9,
+        "mean": 0.9
     },
     {
         "day_of_season": 123,
@@ -102,7 +115,8 @@
         "ds": 0.2,
         "rt": 0.2,
         "wfs": 0.2,
-        "ajb": 0.1
+        "ajb": 0.1,
+        "mean": 0.2
     },
     {
         "day_of_season": 124,
@@ -111,7 +125,8 @@
         "rt": 7.9,
         "wfs": 7.6,
         "ajb": 7.5,
-        "ds": 7.1
+        "ds": 7.1,
+        "mean": 7.5
     },
     {
         "day_of_season": 129,
@@ -120,17 +135,20 @@
         "ds": 0.4,
         "ajb": 0.3,
         "wfs": 0.3,
-        "rt": 0.2
+        "rt": 0.2,
+        "mean": 0.3
     },
     {
         "day_of_season": 136,
         "start_date": "1996-02-14",
-        "gfdl": 1.1
+        "gfdl": 1.1,
+        "mean": 1.1
     },
     {
         "day_of_season": 137,
         "start_date": "1996-02-15",
-        "gfdl": 0.1
+        "gfdl": 0.1,
+        "mean": 0.1
     },
     {
         "day_of_season": 138,
@@ -138,31 +156,36 @@
         "rt": 13.6,
         "wfs": 10.8,
         "ds": 10.4,
-        "ajb": 10.1
+        "ajb": 10.1,
+        "mean": 11.2
     },
     {
         "day_of_season": 153,
         "start_date": "1996-03-02",
         "wfs": 8.4,
         "rt": 6.2,
-        "ds": 6.0
+        "ds": 6.0,
+        "mean": 6.9
     },
     {
         "day_of_season": 154,
         "start_date": "1996-03-03",
         "rt": 0.6,
         "ds": 0.4,
-        "wfs": 0.2
+        "wfs": 0.2,
+        "mean": 0.4
     },
     {
         "day_of_season": 159,
         "start_date": "1996-03-08",
-        "gfdl": 3.9
+        "gfdl": 3.9,
+        "mean": 3.9
     },
     {
         "day_of_season": 179,
         "start_date": "1996-03-28",
-        "gfdl": 0.6
+        "gfdl": 0.6,
+        "mean": 0.6
     },
     {
         "day_of_season": 189,
@@ -170,7 +193,8 @@
         "end_date": "1996-04-08",
         "ajb": 0.3,
         "ds": "T",
-        "wfs": "T"
+        "wfs": "T",
+        "mean": 0.1
     },
     {
         "day_of_season": 191,
@@ -179,6 +203,7 @@
         "rt": 6.4,
         "ajb": 4.0,
         "wfs": 3.2,
-        "ds": 2.7
+        "ds": 2.7,
+        "mean": 4.1
     }
 ]

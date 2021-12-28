@@ -7,7 +7,8 @@
         "jpk": 6.3,
         "rgg": 4.0,
         "rjs": 4.8,
-        "wfs": 6.6
+        "wfs": 6.6,
+        "mean": 5.7
     },
     {
         "day_of_season": 71,
@@ -17,7 +18,8 @@
         "jpk": 0.1,
         "rgg": 0.1,
         "wfs": 0.0,
-        "rjs": 0.1
+        "rjs": 0.1,
+        "mean": 0.1
     },
     {
         "day_of_season": 74,
@@ -27,7 +29,8 @@
         "jpk": 1.2,
         "rgg": 1.8,
         "rjs": 1.1,
-        "wfs": 1.2
+        "wfs": 1.2,
+        "mean": 1.3
     },
     {
         "day_of_season": 75,
@@ -38,7 +41,8 @@
         "rgg": 2.5,
         "rjs": 2.2,
         "wfs": 2.4,
-        "comment": "A long wave trough over the eastern US this past week has brought us colder than normal temperatures and 4 measurable snow events."
+        "comment": "A long wave trough over the eastern US this past week has brought us colder than normal temperatures and 4 measurable snow events.",
+        "mean": 2.0
     },
     {
         "day_of_season": 90,
@@ -49,7 +53,8 @@
         "rgg": 2.5,
         "rjs": 2.6,
         "wfs": 3.0,
-        "comment": "A fast moving storm swinging around a polar vortex produced and average of 2.5″ of new snow this past Saturday, Dec 30."
+        "comment": "A fast moving storm swinging around a polar vortex produced and average of 2.5″ of new snow this past Saturday, Dec 30.",
+        "mean": 2.5
     },
     {
         "day_of_season": 95,
@@ -60,25 +65,29 @@
         "rgg": 8.5,
         "rjs": 6.6,
         "wfs": 5.3,
-        "comment": "A strong east coast storm produced and average of 5.8″ of new snow in the Princeton area yesterday, Jan 4. The storm significantly impacted the coast with some parts of the Jersey shore receiving a foot and a half of snow with wind gusts over 60mph."
+        "comment": "A strong east coast storm produced and average of 5.8″ of new snow in the Princeton area yesterday, Jan 4. The storm significantly impacted the coast with some parts of the Jersey shore receiving a foot and a half of snow with wind gusts over 60mph.",
+        "mean": 5.8
     },
     {
         "day_of_season": 108,
         "start_date": "2018-01-17",
         "gfdl": 1.5,
-        "comment": "A frontal zone to the west combined with a weak trough off the East Coast produced 1.5″ of new snow at GFDL yesterday, Jan 17. Nearly 7″ of snowfall was reported in far northwest NJ and close to 8″ was reported in locations in the Poconos."
+        "comment": "A frontal zone to the west combined with a weak trough off the East Coast produced 1.5″ of new snow at GFDL yesterday, Jan 17. Nearly 7″ of snowfall was reported in far northwest NJ and close to 8″ was reported in locations in the Poconos.",
+        "mean": 1.5
     },
     {
         "day_of_season": 121,
         "start_date": "2018-01-30",
         "gfdl": 0.2,
-        "comment": "An upper level trough to the west combined with a weak trough off the East Coast produced 0.2″ of new snow at GFDL Tuesday, Jan 30. Reports of 4″-5″ of new snow in far Eastern Long Island from this system."
+        "comment": "An upper level trough to the west combined with a weak trough off the East Coast produced 0.2″ of new snow at GFDL Tuesday, Jan 30. Reports of 4″-5″ of new snow in far Eastern Long Island from this system.",
+        "mean": 0.2
     },
     {
         "day_of_season": 129,
         "start_date": "2018-02-07",
         "gfdl": 0.4,
-        "comment": "A gulf low that moved northeastward across central PA and a cold high over New England set up warm advection overrunning precipitation in our area and the northeast resulting in 0.4″ of sleet at GFDL Wednesday, Feb 7. There were also reports of significant freezing rain glazing in the region."
+        "comment": "A gulf low that moved northeastward across central PA and a cold high over New England set up warm advection overrunning precipitation in our area and the northeast resulting in 0.4″ of sleet at GFDL Wednesday, Feb 7. There were also reports of significant freezing rain glazing in the region.",
+        "mean": 0.4
     },
     {
         "day_of_season": 139,
@@ -89,13 +98,15 @@
         "rgg": 2.5,
         "rjs": "M",
         "wfs": 2.8,
-        "comment": "A surface trough off the southeast coast in response to an eastward moving upper level trough developed into a storm offshore of VA during Saturday. As the storm moved rapidly ENE it deepened and produced bands of heavy snow over parts of eastern PA and NJ for a short period during the evening of Feb 17, producing 2.9″ of new (wet)snow in the GFDL area (lack of low-level cold air kept temperatures >= freezing during most of the event). There were reports of as much as 9″-10″ in some parts of Hunterdon and Morris counties."
+        "comment": "A surface trough off the southeast coast in response to an eastward moving upper level trough developed into a storm offshore of VA during Saturday. As the storm moved rapidly ENE it deepened and produced bands of heavy snow over parts of eastern PA and NJ for a short period during the evening of Feb 17, producing 2.9″ of new (wet)snow in the GFDL area (lack of low-level cold air kept temperatures >= freezing during most of the event). There were reports of as much as 9″-10″ in some parts of Hunterdon and Morris counties.",
+        "mean": 2.9
     },
     {
         "day_of_season": 152,
         "start_date": "2018-03-02",
         "gfdl": 1.4,
-        "comment": "In response to a deepening upper-level trough, a moderately strong storm in the mid-west on Thursday, March 1, deepened as it moved eastward and re-developed off the NJ coast in the very early morning hours Friday. It rapidly intensified so that it was powerful Nor’Easter by Friday morning located just south of eastern Long Island with a central pressure of 983mb. The storm produced heavy rains overnight throughout the eastern PA / NJ region and continued to deepen throughout Friday. During Friday the heavy rain mixed with and changed to heavy snow in many parts of the area including the Princeton area, with 1.4″ being measured at GFDL. Very heavy snow occurred in the Poconos across northern Sussex county NJ and into the Catskills where many locations received a foot or more and some places approached two feet. (A maximum in snowfall of 40″was reported from Cobleskill,NY!)."
+        "comment": "In response to a deepening upper-level trough, a moderately strong storm in the mid-west on Thursday, March 1, deepened as it moved eastward and re-developed off the NJ coast in the very early morning hours Friday. It rapidly intensified so that it was powerful Nor’Easter by Friday morning located just south of eastern Long Island with a central pressure of 983mb. The storm produced heavy rains overnight throughout the eastern PA / NJ region and continued to deepen throughout Friday. During Friday the heavy rain mixed with and changed to heavy snow in many parts of the area including the Princeton area, with 1.4″ being measured at GFDL. Very heavy snow occurred in the Poconos across northern Sussex county NJ and into the Catskills where many locations received a foot or more and some places approached two feet. (A maximum in snowfall of 40″was reported from Cobleskill,NY!).",
+        "mean": 1.4
     },
     {
         "day_of_season": 157,
@@ -106,13 +117,15 @@
         "rgg": 6.1,
         "rjs": "M",
         "wfs": 9.7,
-        "comment": "A mid-west storm that brought blizzard conditions in parts of the Dakotas and heavy snow across Minnesota moved eastward and transferred energy to the East Coast resulting in a re-development of a storm near the Virginia Beach area very early Wednesday, Mar 7. After initially bring light mixed precipitation to the Princeton region overnight Wednesday, the storm intensified and produced convective bands of very heavy snow mostly during the afternoon with snowfall rates of 2″ to 3″ per hour in places, including the greater GFDL/Princeton area. There were numerous reports of “thunder snow” throughout the area. Because it was convective, there were some large variations in snow fall amounts ranging as high as 26.8″ in Montville (Morris county) while less than 15 mi southeast, Central Park in NYC reported only about 3.2″."
+        "comment": "A mid-west storm that brought blizzard conditions in parts of the Dakotas and heavy snow across Minnesota moved eastward and transferred energy to the East Coast resulting in a re-development of a storm near the Virginia Beach area very early Wednesday, Mar 7. After initially bring light mixed precipitation to the Princeton region overnight Wednesday, the storm intensified and produced convective bands of very heavy snow mostly during the afternoon with snowfall rates of 2″ to 3″ per hour in places, including the greater GFDL/Princeton area. There were numerous reports of “thunder snow” throughout the area. Because it was convective, there were some large variations in snow fall amounts ranging as high as 26.8″ in Montville (Morris county) while less than 15 mi southeast, Central Park in NYC reported only about 3.2″.",
+        "mean": 9.2
     },
     {
         "day_of_season": 163,
         "start_date": "2018-03-13",
         "gfdl": 1.1,
-        "comment": "The third Nor’Easter during this March only had a minor impact on the GFDL area producing 1.1″ of new snow at GFDL. This storm began in the Gulf of Mexico on Sunday and re-developed as a 1007mb low off the coast of Georgia early on Monday. It rapidly intensified as it moved northeastward and was located south of Nantucket well off the south NJ coast Tuesday morning, March 13, with a central pressure of 972mb. It very significantly impacted southeast New England with very heavy snow (at least one report of nearly 20″ with snow still falling southwest of Boston) and strong winds approaching hurricane force in gusts."
+        "comment": "The third Nor’Easter during this March only had a minor impact on the GFDL area producing 1.1″ of new snow at GFDL. This storm began in the Gulf of Mexico on Sunday and re-developed as a 1007mb low off the coast of Georgia early on Monday. It rapidly intensified as it moved northeastward and was located south of Nantucket well off the south NJ coast Tuesday morning, March 13, with a central pressure of 972mb. It very significantly impacted southeast New England with very heavy snow (at least one report of nearly 20″ with snow still falling southwest of Boston) and strong winds approaching hurricane force in gusts.",
+        "mean": 1.1
     },
     {
         "day_of_season": 170,
@@ -124,12 +137,14 @@
         "rgg": 16.4,
         "rjs": "M",
         "wfs": 10.8,
-        "comment": "The fourth Nor’Easter of March 2018 has ushered in Spring by being the largest snowstorm of this 2017-18 snow season, producing an average of 11.0″ over the GFDL snow observing region. The storm was located around Colorado late Sunday, March 18 and associated with a weak upper level short wave, moved eastward to North Carolina by Tuesday morning. It then moved east northeastward producing generally light mixed precipitation in our area on Tuesday. During Tuesday another upper level short wave well to the west of this surface low was deepening and initiated the development of a secondary storm center over South Carolina late Tuesday which intensified a bit and eventually became the main Nor’Easter storm as it moved slowly north eastward to a position off DelMarVa by Wednesday evening. One of the highest snow totals in NJ was reported by a GFDL snowpool observer at 16.4″ with amounts approaching 20″ being reported in some parts of eastern Long Island."
+        "comment": "The fourth Nor’Easter of March 2018 has ushered in Spring by being the largest snowstorm of this 2017-18 snow season, producing an average of 11.0″ over the GFDL snow observing region. The storm was located around Colorado late Sunday, March 18 and associated with a weak upper level short wave, moved eastward to North Carolina by Tuesday morning. It then moved east northeastward producing generally light mixed precipitation in our area on Tuesday. During Tuesday another upper level short wave well to the west of this surface low was deepening and initiated the development of a secondary storm center over South Carolina late Tuesday which intensified a bit and eventually became the main Nor’Easter storm as it moved slowly north eastward to a position off DelMarVa by Wednesday evening. One of the highest snow totals in NJ was reported by a GFDL snowpool observer at 16.4″ with amounts approaching 20″ being reported in some parts of eastern Long Island.",
+        "mean": 11.0
     },
     {
         "day_of_season": 183,
         "start_date": "2018-04-02",
         "gfdl": 1.5,
-        "comment": "Even though it is now April our snow season continues. A weak storm that developed in the Tennessee valley region moved rapidly east northeastward producing 1.5″ of new snow at GFDL during Monday morning,April 2. A heavier snow band set up north of our region with a number of reports of over 7″ of snow around the rt 80 corridor."
+        "comment": "Even though it is now April our snow season continues. A weak storm that developed in the Tennessee valley region moved rapidly east northeastward producing 1.5″ of new snow at GFDL during Monday morning,April 2. A heavier snow band set up north of our region with a number of reports of over 7″ of snow around the rt 80 corridor.",
+        "mean": 1.5
     }
 ]
