@@ -5,6 +5,7 @@
 import datetime
 import json
 import os
+import pickle
 import re
 import sys
 
@@ -113,8 +114,15 @@ def summarize_events(event_list):
 
 
 if __name__ == "__main__":
-    FNAME = os.path.abspath(sys.argv[1]) if len(sys.argv) > 1 else None
-    events = load_json(FNAME) if FNAME is not None else []
+    if os.path.exists(".events.pkl"):
+        events = pickle.load(open(".events.pkl", "rb"))
+        print("RECOVERY FILE FOUND!\n")
+        summarize_events(events)
+        FNAME = None
+    else:
+        FNAME = os.path.abspath(sys.argv[1]) if len(sys.argv) > 1 else None
+        events = load_json(FNAME) if FNAME is not None else []
+
     if not isinstance(events, list):
         events = [events]
     numevents = len(events)
@@ -130,6 +138,7 @@ if __name__ == "__main__":
             print("Try again ...")
         if event is not None:
             events.append(event)
+        pickle.dump(events, open(".events.pkl", "wb"))
         print("\n")
 
     if len(events) > 0:
@@ -144,4 +153,6 @@ if __name__ == "__main__":
                 json.dump(events, f, ensure_ascii=False, indent=4)
             f.close()
 
+    if os.path.exists(".events.pkl"):
+        os.remove(".events.pkl")
 sys.exit()
