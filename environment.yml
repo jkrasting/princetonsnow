@@ -1,0 +1,11 @@
+name: python39
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=>3.9
+  - matplotlib>=3.3.3
+  - numpy
+  - pandas
+  - scipy
+  - seaborn
