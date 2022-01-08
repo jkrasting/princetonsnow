@@ -7,6 +7,19 @@
         "ds": "T",
         "rjs": "T",
         "wfs": "T",
-        "comment": "A clipper system caused light snow showers across Central NJ on Christmas Eve. Some locations across Northern New Jersey and NYC received around 1 inch."
+        "comment": "A clipper system caused light snow showers across Central NJ on Christmas Eve. Some locations across Northern New Jersey and NYC received around 1 inch.",
+        "mean": 0.0
+    },
+    {
+        "day_of_season": 98,
+        "start_date": "2022-01-07",
+        "cw": 4.4,
+        "ajb": 4.8,
+        "jpk": 5.3,
+        "ds": 4.6,
+        "wfs": 4.4,
+        "rjs": "M",
+        "comment": "Low pressure developed along a frontal boundary to the south of the region. Snowfall rates of 1\" per hour were common. The snow to liquid ratios of the snow were relatively high at approximately 17 to 1",
+        "mean": 4.7
     }
 ]
