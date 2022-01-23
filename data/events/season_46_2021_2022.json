@@ -19,7 +19,8 @@
         "jpk": 5.3,
         "rjs": "M",
         "wfs": 4.4,
-        "comment": "Our first measurable snowfall of the season was the result of a storm that developed in northern LA/MI, moved to the central NC/VA border bringing considerable snow to portions of TN, KY and WV. During the evening of Jan 6 and it redeveloped off the NC coast.the storm strengthened and move northeastward to a location well offshore of NJ by early morning Jan 7."
+        "comment": "Our first measurable snowfall of the season was the result of a storm that developed in northern LA/MI, moved to the central NC/VA border bringing considerable snow to portions of TN, KY and WV. During the evening of Jan 6 and it redeveloped off the NC coast.the storm strengthened and move northeastward to a location well offshore of NJ by early morning Jan 7.",
+        "mean": 4.7
     },
     {
         "day_of_season": 107,
@@ -30,6 +31,29 @@
         "jpk": 0.5,
         "rjs": 0.5,
         "wfs": 1.2,
-        "comment": "A low pressure system located around SE CO on Friday Jan 14, moved east southeast, with the support of a deepening upper level trough strengthened and was located near Charleston,SC Sunday afternoon. Moving northward, the storm stayed onshore which allowed a southeast warm flow to override cold air that remained from a high off the northern New England coast. This produced a brief period of snow in the GFDL region during early evening of Jan 16, before a change over to rain."
+        "comment": "A low pressure system located around SE CO on Friday Jan 14, moved east southeast, with the support of a deepening upper level trough strengthened and was located near Charleston,SC Sunday afternoon. Moving northward, the storm stayed onshore which allowed a southeast warm flow to override cold air that remained from a high off the northern New England coast. This produced a brief period of snow in the GFDL region during early evening of Jan 16, before a change over to rain.",
+        "mean": 0.7
+    },
+    {
+        "day_of_season": 109,
+        "start_date": "2022-01-18",
+        "ajb": "T",
+        "cw": 0.4,
+        "ds": "T",
+        "jpk": 0.6,
+        "rjs": "T",
+        "wfs": "T",
+        "comment": "Snow squalls that developed from instability due to cold advection aloft plus perhaps some remnants of Great Lake effect streamers produced today’s snow event."
+    },
+    {
+        "day_of_season": 111,
+        "start_date": "2022-01-20",
+        "ajb": 0.2,
+        "cw": "T",
+        "ds": "T",
+        "jpk": 0.1,
+        "rjs": "T",
+        "wfs": "T",
+        "comment": "Precipitation associated with a cold front produced a period of rain which changed to a few hours of light snow during the AM of Jan 20 resulting in this event’s barely measurable snowfall."
     }
 ]
