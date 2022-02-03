@@ -43,7 +43,8 @@
         "jpk": 0.6,
         "rjs": "T",
         "wfs": "T",
-        "comment": "Snow squalls that developed from instability due to cold advection aloft plus perhaps some remnants of Great Lake effect streamers produced today’s snow event."
+        "comment": "Snow squalls that developed from instability due to cold advection aloft plus perhaps some remnants of Great Lake effect streamers produced today’s snow event.",
+        "mean": 0.2
     },
     {
         "day_of_season": 111,
@@ -54,6 +55,19 @@
         "jpk": 0.1,
         "rjs": "T",
         "wfs": "T",
-        "comment": "Precipitation associated with a cold front produced a period of rain which changed to a few hours of light snow during the AM of Jan 20 resulting in this event’s barely measurable snowfall."
+        "comment": "Precipitation associated with a cold front produced a period of rain which changed to a few hours of light snow during the AM of Jan 20 resulting in this event’s barely measurable snowfall.",
+        "mean": 0.1
+    },
+    {
+        "day_of_season": 119,
+        "start_date": "2022-01-28",
+        "end_date": "2022-01-29",
+        "ajb": 6.8,
+        "cw": 7.9,
+        "ds": 7.8,
+        "jpk": 6.7,
+        "rjs": 8.1,
+        "wfs": 9.9,
+        "comment": "An east cost storm developed off the east coast of FL Friday morning (Jan28). The storm moved northeastward, intensified and was located off the NC coast Friday night. With considerable cold air support from a high in eastern Canada, overrunning warmer air produced a period of light snow well in advance of the storm over the GFDL region during Friday morning. The storm continued to intensify rapidly as it moved northeastward allowing more continuous snow starting during Friday evening and continuing through Saturday morning, which produced most of the snow for this event. Some places along the NJ shore received around a foot and a half of snow, locations in eastern Long Island and eastern Massachusetts received upwards of two feet (Boston’s official measurement was 23.8″)."
     }
 ]
