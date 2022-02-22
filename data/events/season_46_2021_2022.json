@@ -68,6 +68,42 @@
         "jpk": 6.7,
         "rjs": 8.1,
         "wfs": 9.9,
-        "comment": "An east cost storm developed off the east coast of FL Friday morning (Jan28). The storm moved northeastward, intensified and was located off the NC coast Friday night. With considerable cold air support from a high in eastern Canada, overrunning warmer air produced a period of light snow well in advance of the storm over the GFDL region during Friday morning. The storm continued to intensify rapidly as it moved northeastward allowing more continuous snow starting during Friday evening and continuing through Saturday morning, which produced most of the snow for this event. Some places along the NJ shore received around a foot and a half of snow, locations in eastern Long Island and eastern Massachusetts received upwards of two feet (Boston’s official measurement was 23.8″)."
+        "comment": "An east cost storm developed off the east coast of FL Friday morning (Jan28). The storm moved northeastward, intensified and was located off the NC coast Friday night. With considerable cold air support from a high in eastern Canada, overrunning warmer air produced a period of light snow well in advance of the storm over the GFDL region during Friday morning. The storm continued to intensify rapidly as it moved northeastward allowing more continuous snow starting during Friday evening and continuing through Saturday morning, which produced most of the snow for this event. Some places along the NJ shore received around a foot and a half of snow, locations in eastern Long Island and eastern Massachusetts received upwards of two feet (Boston’s official measurement was 23.8″).",
+        "mean": 7.9
+    },
+    {
+        "day_of_season": 129,
+        "start_date": "2022-02-07",
+        "ajb": 0.1,
+        "cw": "T",
+        "ds": 0.1,
+        "jpk": 0.2,
+        "rjs": 0.1,
+        "wfs": 0.2,
+        "comment": "This snow event was the result of a brief period of snow in the early morning hours of Feb 7 before changing to freezing rain and then rain. Moist warmer air overran cold air in place in advance of a developing coastal storm.",
+        "mean": 0.1
+    },
+    {
+        "day_of_season": 135,
+        "start_date": "2022-02-13",
+        "ajb": 2.7,
+        "cw": 2.6,
+        "ds": 2.8,
+        "jpk": 2.8,
+        "rjs": 3.0,
+        "wfs": 2.3,
+        "comment": "This snow event was the result of the influence of an off shore coastal low coupled with vorticity advection associated with an upper-level trough.",
+        "mean": 2.7
+    },
+    {
+        "day_of_season": 141,
+        "start_date": "2022-02-19",
+        "ajb": "M",
+        "cw": 0.1,
+        "ds": "T",
+        "jpk": 0.1,
+        "rjs": "T",
+        "wfs": 0.1,
+        "comment": "A snow squall with a brief period of heavy snow during the afternoon of Feb 19 gave the GFDL region 0.1″. This squall was associated with a secondary cold front coupled with a sharp trough aloft and positive vorticity advection."
     }
 ]
