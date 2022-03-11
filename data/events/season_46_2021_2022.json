@@ -104,6 +104,19 @@
         "jpk": 0.1,
         "rjs": "T",
         "wfs": 0.1,
-        "comment": "A snow squall with a brief period of heavy snow during the afternoon of Feb 19 gave the GFDL region 0.1″. This squall was associated with a secondary cold front coupled with a sharp trough aloft and positive vorticity advection."
+        "comment": "A snow squall with a brief period of heavy snow during the afternoon of Feb 19 gave the GFDL region 0.1″. This squall was associated with a secondary cold front coupled with a sharp trough aloft and positive vorticity advection.",
+        "mean": 0.1
+    },
+    {
+        "day_of_season": 146,
+        "start_date": "2022-02-24",
+        "end_date": "2022-02-25",
+        "ajb": 0.2,
+        "cw": "M",
+        "ds": 0.1,
+        "jpk": 0.2,
+        "rjs": "T",
+        "wfs": 0.1,
+        "comment": "Warm air overriding cold air in place produced 0.1″ of sleet in the GFDL area before the precipitation changed to freezing rain and then rain."
     }
 ]
