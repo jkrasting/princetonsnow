@@ -32,7 +32,7 @@
         "rjs": 0.5,
         "wfs": 1.2,
         "comment": "A low pressure system located around SE CO on Friday Jan 14, moved east southeast, with the support of a deepening upper level trough strengthened and was located near Charleston,SC Sunday afternoon. Moving northward, the storm stayed onshore which allowed a southeast warm flow to override cold air that remained from a high off the northern New England coast. This produced a brief period of snow in the GFDL region during early evening of Jan 16, before a change over to rain.",
-        "mean": 0.7
+        "mean": 0.6
     },
     {
         "day_of_season": 109,
@@ -117,6 +117,7 @@
         "jpk": 0.2,
         "rjs": "T",
         "wfs": 0.1,
-        "comment": "Warm air overriding cold air in place produced 0.1″ of sleet in the GFDL area before the precipitation changed to freezing rain and then rain."
+        "comment": "Warm air overriding cold air in place produced 0.1″ of sleet in the GFDL area before the precipitation changed to freezing rain and then rain.",
+        "mean": 0.1
     }
 ]
