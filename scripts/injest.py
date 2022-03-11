@@ -25,6 +25,7 @@ def event_mean(_event):
     """Calculates the mean for an event"""
 
     # remove mean value if it already exists for event
+    _event = _event.copy()
     _event.pop("mean", None)
 
     # look for trace events
@@ -54,10 +55,14 @@ def event_mean(_event):
     return mean
 
 
-def fix_missing_event_mean(event):
+def fix_missing_event_mean(event,force=False):
     """Adds event mean to older json files"""
-    if "mean" not in event.keys():
+
+    recalculate = True if force else ("mean" not in event.keys())
+
+    if recalculate:
         event["mean"] = event_mean(event)
+
     return event
 
 
