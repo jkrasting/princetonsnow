@@ -23,15 +23,34 @@ def days_since_oct1(date_string):
 
 def event_mean(_event):
     """Calculates the mean for an event"""
+
+    # remove mean value if it already exists for event
+    _event.pop("mean", None)
+
+    # look for trace events
     traces = [x for x in _event.values() if isinstance(x, str)]
     traces = [0.0 for x in traces if (x.upper() == "T")]
-    values = [x for x in _event.values() if isinstance(x, float)]
-    values = values + traces
-    if len(values) > 0:
-        mean = sum(values) / len(values)
-        mean = round(mean, 1)
+
+    # if traces are present, do a "traditional" rounding
+    if len(traces) > 0:
+        values = [x for x in _event.values() if isinstance(x, float)]
+        values = values + traces
+        if len(values) > 0:
+            mean = sum(values) / len(values)
+            mean = round(mean, 1)
+        else:
+            mean = 0.0
+
+    # alternate method of "round to even" - aka "bankers rounding"
+    # this is only done in the case of no traces
     else:
-        mean = 0.0
+        values = [x for x in _event.values() if isinstance(x, float)]
+        if len(values) > 0:
+            mean = sum(values) / len(values)
+            mean = round(0.1 * round(mean * 10), 1)
+        else:
+            mean = 0.0
+
     return mean
 
 
