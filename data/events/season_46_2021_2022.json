@@ -119,5 +119,16 @@
         "wfs": 0.1,
         "comment": "Warm air overriding cold air in place produced 0.1″ of sleet in the GFDL area before the precipitation changed to freezing rain and then rain.",
         "mean": 0.1
+    },
+    {
+        "day_of_season": 163,
+        "start_date": "2022-03-13",
+        "ajb": "M",
+        "cw": 0.5,
+        "ds": 0.6,
+        "jpk": 0.6,
+        "rjs": 0.4,
+        "wfs": 1.5,
+        "comment": "This sleet and snow event was the result of a storm that developed over the SE US which intially produced rain in the Princeton area. As it redeveloped and intensified off the east cost it brought in cold air that changed the precipitation to sleet and then snow."
     }
 ]
