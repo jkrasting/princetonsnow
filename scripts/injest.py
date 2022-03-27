@@ -55,7 +55,7 @@ def event_mean(_event):
     return mean
 
 
-def fix_missing_event_mean(event,force=False):
+def fix_missing_event_mean(event, force=False):
     """Adds event mean to older json files"""
 
     recalculate = True if force else ("mean" not in event.keys())
@@ -135,7 +135,7 @@ def create_event():
         comment = input("Optional -- enter a comment: ")
         if comment != "":
             result["comment"] = comment
-        
+
         # calculate event mean
         result["mean"] = event_mean(result)
 
