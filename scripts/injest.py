@@ -135,6 +135,10 @@ def create_event():
         comment = input("Optional -- enter a comment: ")
         if comment != "":
             result["comment"] = comment
+        
+        # calculate event mean
+        result["mean"] = event_mean(result)
+
     else:
         result = None
 
