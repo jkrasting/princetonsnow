@@ -1,0 +1,50 @@
+[
+    {
+        "day_of_season":83,
+        "start_date":"2022-12-23",
+        "ajb":0.1,
+        "cw":"T",
+        "ds":0.1,
+        "jpk":"T",
+        "rjs":0.1,
+        "wfs":0.3,
+        "comment":"Our First measurable snowfall of the season was the result of snow showers associated with a strong cold frontal passage.",
+        "mean":0.1
+    },
+    {
+        "day_of_season":123,
+        "start_date":"2023-02-01",
+        "ajb":0.1,
+        "cw":"T",
+        "ds":0.1,
+        "jpk":0.2,
+        "rjs":0.1,
+        "wfs":0.1,
+        "comment":"This (barely measurable) snow event was from a weak storm that passed well south of our region.",
+        "mean":0.1
+    },
+    {
+        "day_of_season":149,
+        "start_date":"2023-02-27",
+        "ajb":1.3,
+        "cw":0.7,
+        "ds":0.8,
+        "jpk":0.7,
+        "rjs":0.6,
+        "wfs":0.6,
+        "comment":null,
+        "mean":0.8
+    },
+    {
+        "day_of_season":157,
+        "start_date":"2023-03-07",
+        "ajb":0.7,
+        "cw":1.0,
+        "ds":0.2,
+        "jpk":1.1,
+        "rjs":0.3,
+        "wfs":0.2,
+        "comment":null,
+        "mean":0.6
+    }
+]
