@@ -18,11 +18,14 @@ years = year+'_'+str(int(year)+1)
 df =pd.read_html(str(table),header=0)[0]
 df['comment'] = [np.nan]*len(df)
 # Insert the commnet into the day prior
-for i in range(1,len(df),2):
-    try:
-        combined_str = df.iloc[i].dropna().iloc[0]
-        df.at[i-1,'comment'] = combined_str
-    except:
+for index, row in df.iterrows():
+    if type(row['Date']) != str:
+        try:
+            combined_str = df.iloc[index].dropna().iloc[0]
+            df.at[index-1,'comment'] = combined_str
+        except:
+            pass
+    else:
         pass
 
 # Clean up the dataframe
