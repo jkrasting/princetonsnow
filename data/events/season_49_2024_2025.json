@@ -82,5 +82,57 @@
         "wfs": 3.7,
         "comment": "A coastal storm developed around Hatteras moved NE off the east coast produced a period of snow and some mixed precip in the Princeton region.",
         "mean": 2.8
+    },
+    {
+        "start_date": "2025-02-02",
+        "day_of_season": 125,
+        "ajb": 0.1,
+        "ds": 0.2,
+        "jpk": 0.2,
+        "liz": 0.2,
+        "rjs": 0.2,
+        "wfs": 0.2,
+        "mean": 0.2
+    },
+    {
+        "start_date": "2025-02-05",
+        "day_of_season": 128,
+        "ajb": 0.1,
+        "ds": 0,
+        "jpk": "M",
+        "rjs": "M",
+        "wfs": 0.1,
+        "mean": 0.1
+    },
+    {
+        "start_date": "2025-02-08",
+        "day_of_season": 131,
+        "ajb": 0.7,
+        "ds": "M",
+        "jpk": "M",
+        "rjs": "M",
+        "wfs": 0.2,
+        "mean": 0.4
+    },
+    {
+        "start_date": "2025-02-11",
+        "end_date": "2025-02-12",
+        "day_of_season": 134,
+        "ajb": 1.9,
+        "ds": 2.3,
+        "jpk": "M",
+        "liz": 2.5,
+        "rjs": "M",
+        "wfs": 2.5,
+        "mean": 2.3
+    },
+    {
+        "start_date": "2025-02-20",
+        "day_of_season": 143,
+        "ajb": 0.2,
+        "ds": 0.4,
+        "jpk": 0.2,
+        "wfs": 0.3,
+        "mean": 0.3
     }
 ]
