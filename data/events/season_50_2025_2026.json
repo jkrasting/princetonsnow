@@ -1,0 +1,43 @@
+[
+    {
+        "start_date": "2025-12-06",
+        "day_of_season": 66,
+        "ajb": 0.1,
+        "jpk": "T",
+        "rjs": "M",
+        "mean": 0.0
+    },
+    {
+        "start_date": "2025-12-13",
+        "end_date": "2025-12-14",
+        "day_of_season": 73,
+        "ajb": 6.6,
+        "cw": 6.7,
+        "ds": 6.7,
+        "jpk": 7.3,
+        "rjs": 6.9,
+        "wfs": 6.3,
+        "mean": 6.8
+    },
+    {
+        "start_date": "2025-12-23",
+        "day_of_season": 83,
+        "ajb": 0.3,
+        "cw": "T",
+        "jpk": 0.2,
+        "rjs": 0.1,
+        "wfs": "T",
+        "mean": 0.1
+    },
+    {
+        "start_date": "2025-12-26",
+        "end_date": "2025-12-27",
+        "day_of_season": 86,
+        "ajb": 0.9,
+        "cw": "M",
+        "jpk": 0.6,
+        "rjs": "M",
+        "wfs": 0.6,
+        "mean": 0.7
+    }
+]
