@@ -1,0 +1,138 @@
+[
+    {
+        "start_date": "2024-12-20",
+        "day_of_season": 80,
+        "ajb": 3.3,
+        "ds": 2.7,
+        "jpk": 3.4,
+        "rjs": 2.5,
+        "wfs": 2.3,
+        "comment": "Our First measurable snowfall of the season was the result of a storm that developed along a strong cold front.",
+        "mean": 2.8
+    },
+    {
+        "start_date": "2024-12-24",
+        "day_of_season": 84,
+        "ajb": 1.1,
+        "ds": 0.6,
+        "jpk": 1.0,
+        "rjs": 0.6,
+        "wfs": 0.5,
+        "comment": "This snow event was the result of a weak disturbance that moved through the region.",
+        "mean": 0.8
+    },
+    {
+        "start_date": "2025-01-03",
+        "day_of_season": 94,
+        "ajb": "T",
+        "ds": 0.3,
+        "jpk": 0.2,
+        "rjs": 0.5,
+        "wfs": 0.3,
+        "comment": "This snow event was the result of a weak disturbance that moved south of the region.",
+        "mean": 0.3
+    },
+    {
+        "start_date": "2025-01-06",
+        "day_of_season": 97,
+        "ajb": 1.1,
+        "ds": 1.4,
+        "jpk": 1.3,
+        "liz": 1.5,
+        "rjs": 1.6,
+        "wfs": 2.0,
+        "comment": "This snow event was the result of another storm with a track south of the region.",
+        "mean": 1.5
+    },
+    {
+        "start_date": "2025-01-11",
+        "day_of_season": 102,
+        "ajb": 0.6,
+        "cw": "T",
+        "ds": 0.3,
+        "jpk": "M",
+        "liz": "M",
+        "rjs": "M",
+        "wfs": 0.5,
+        "comment": "Another weak storm tracking south of the region.",
+        "mean": 0.4
+    },
+    {
+        "start_date": "2025-01-16",
+        "day_of_season": 107,
+        "ajb": 0.2,
+        "cw": "M",
+        "ds": 0.6,
+        "jpk": "M",
+        "liz": 0.4,
+        "rjs": "M",
+        "wfs": 0.6,
+        "comment": "A period of snow showers affecting the Princeton region.",
+        "mean": 0.4
+    },
+    {
+        "start_date": "2025-01-19",
+        "day_of_season": 110,
+        "ajb": 3.4,
+        "cw": "M",
+        "ds": 2.6,
+        "jpk": 2.9,
+        "liz": 2.3,
+        "rjs": 1.9,
+        "wfs": 3.7,
+        "comment": "A coastal storm developed around Hatteras moved NE off the east coast produced a period of snow and some mixed precip in the Princeton region.",
+        "mean": 2.8
+    },
+    {
+        "start_date": "2025-02-02",
+        "day_of_season": 125,
+        "ajb": 0.1,
+        "ds": 0.2,
+        "jpk": 0.2,
+        "liz": 0.2,
+        "rjs": 0.2,
+        "wfs": 0.2,
+        "mean": 0.2
+    },
+    {
+        "start_date": "2025-02-05",
+        "day_of_season": 128,
+        "ajb": 0.1,
+        "ds": 0,
+        "jpk": "M",
+        "rjs": "M",
+        "wfs": 0.1,
+        "mean": 0.1
+    },
+    {
+        "start_date": "2025-02-08",
+        "day_of_season": 131,
+        "ajb": 0.7,
+        "ds": "M",
+        "jpk": "M",
+        "rjs": "M",
+        "wfs": 0.2,
+        "mean": 0.4
+    },
+    {
+        "start_date": "2025-02-11",
+        "end_date": "2025-02-12",
+        "day_of_season": 134,
+        "ajb": 1.9,
+        "ds": 2.3,
+        "jpk": "M",
+        "liz": 2.5,
+        "rjs": "M",
+        "wfs": 2.5,
+        "mean": 2.3
+    },
+    {
+        "start_date": "2025-02-20",
+        "day_of_season": 143,
+        "ajb": 0.2,
+        "ds": 0.4,
+        "jpk": 0.2,
+        "wfs": 0.3,
+        "mean": 0.3
+    }
+]
