@@ -5,7 +5,8 @@
         "ajb": 0.1,
         "jpk": "T",
         "rjs": "M",
-        "mean": 0.0
+        "wfs": 0.1,
+        "mean": 0.1
     },
     {
         "start_date": "2025-12-13",
@@ -39,5 +40,22 @@
         "rjs": "M",
         "wfs": 0.6,
         "mean": 0.7
+    },
+    {
+        "start_date": "2026-01-01",
+        "day_of_season": 92,
+        "ajb": 0.3,
+        "jpk": 0.3,
+        "rjs": 0.2,
+        "wfs": 0.7,
+        "mean": 0.4
+    },
+    {
+        "start_date": "2026-01-02",
+        "day_of_season": 93,
+        "ajb": 0.2,
+        "jpk": 0.2,
+        "rjs": 0.2,
+        "mean": 0.2
     }
 ]
