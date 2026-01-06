@@ -36,15 +36,17 @@
         "day_of_season": 86,
         "ajb": 0.9,
         "cw": "M",
+        "ds": 0.3,
         "jpk": 0.6,
         "rjs": "M",
         "wfs": 0.6,
-        "mean": 0.7
+        "mean": 0.6
     },
     {
         "start_date": "2026-01-01",
         "day_of_season": 92,
         "ajb": 0.3,
+        "ds": 0.7,
         "jpk": 0.3,
         "rjs": 0.2,
         "wfs": 0.7,
