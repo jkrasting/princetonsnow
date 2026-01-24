@@ -76,11 +76,12 @@
         "start_date": "2026-01-18",
         "day_of_season": 109,
         "ajb": "M",
+        "cw": 3.9,
         "ds": 3.1,
         "jpk": 3.9,
         "liz": 2.5,
         "rjs": 2.6,
         "wfs": 4.2,
-        "mean": 3.3
+        "mean": 3.4
     }
 ]
