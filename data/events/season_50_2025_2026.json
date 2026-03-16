@@ -137,5 +137,16 @@
         "liz": 0.8,
         "wfs": 0.9,
         "mean": 0.9
+    },
+    {
+        "start_date": "2026-03-12",
+        "day_of_season": 162,
+        "ajb": "T",
+        "cw": "T",
+        "ds": "T",
+        "jpk": 0.5,
+        "liz": "T",
+        "wfs": "T",
+        "mean": 0.1
     }
 ]
